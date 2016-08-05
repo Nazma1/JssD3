@@ -1,0 +1,1885 @@
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains",
+"Production" : "257.13"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Kharif",
+"Production" : "128.07"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rabi",
+"Production" : "129.06"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice",
+"Production" : "105.24"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Kharif",
+"Production" : "92.37"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Rabi",
+"Production" : "12.87"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Rabi",
+"Production" : "93.51"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Jowar",
+"Production" : "5.28"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Jowar Kharif",
+"Production" : "2.84"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Jowar Rabi",
+"Production" : "2.44"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Bajra Kharif",
+"Production" : "8.74"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Maize",
+"Production" : "22.26"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Maize Kharif",
+"Production" : "16.19"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Maize Rabi",
+"Production" : "6.06"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Ragi Kharif",
+"Production" : "1.57"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Small Millets Kharif",
+"Production" : "0.44"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Barley Rabi",
+"Production" : "1.75"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals",
+"Production" : "40.04"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Kharif",
+"Production" : "29.79"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Rabi",
+"Production" : "10.25"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Cereals",
+"Production" : "238.79"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Cereals Kharif",
+"Production" : "122.16"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Cereals Rabi",
+"Production" : "116.63"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Tur Kharif",
+"Production" : "3.02"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Other Kharif Pulses Kharif",
+"Production" : "0.62"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Gram Rabi",
+"Production" : "8.83"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Other Kharif Pulses Rabi",
+"Production" : "2.73"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Pulses",
+"Production" : "18.34"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Pulses Kharif",
+"Production" : "5.91"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Pulses Rabi",
+"Production" : "12.43"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Major Crops Target Foodgrains",
+"Production" : "254.24"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Major Crops Achievements Foodgrains",
+"Production" : "255.36"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Rice Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Wheat Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Jowar Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Bajra Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Coarse Cereals Maize Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Tur Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Foodgrains Pulses Gram Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Groundnut",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Soyabean Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Oilseeds Nine Oilseeds Sunflower",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Cotton",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Jute and Mesta",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Onion",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Potato",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Area 5 Yr Avg Other Cash Crops Sugarcane",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rice Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Production Foodgrains Coarse Cereals Rice Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Rice Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Wheat Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Jowar Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Bajra Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Coarse Cereals Maize Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Pulses Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Pulses Tur Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Pulses Gram Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Pulses Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Foodgrains Pulses Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Groundnut",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Soyabean Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Oilseeds Nine Oilseeds Sunflower",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Other Cash Crops Cotton",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Other Cash Crops Jute and Mesta",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Other Cash Crops Onion",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Other Cash Crops Potato",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Production Other Cash Crops Sugarcane",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rice Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Foodgrains Coarse Cereals Rice Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Rice Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Wheat Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Jowar Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Bajra Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Coarse Cereals Maize Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Pulses Total",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Pulses Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Pulses Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Pulses Tur Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Foodgrains Pulses Gram Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Groundnut",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Rapeseed and Mustard Rabi",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Soyabean Kharif",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Oilseeds Nine Oilseeds Sunflower",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Other Cash Crops Cotton",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Other Cash Crops Jute and Mesta",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Other Cash Crops Onion",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Other Cash Crops Potato",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agriculture Production Foodgrains Yield Other Cash Crops Sugarcane",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Andhra Pradesh",
+"Production" : "6.85"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Assam",
+"Production" : "2.52"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Bihar",
+"Production" : "6.71"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Chhattisgarh",
+"Production" : "5.04"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Gujarat",
+"Production" : "3.68"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Haryana",
+"Production" : "4.39"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Jharkhand",
+"Production" : "2.31"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Karnataka",
+"Production" : "7.42"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Madhya Pradesh",
+"Production" : "14.13"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Maharashtra",
+"Production" : "10.11"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Orissa",
+"Production" : "5.04"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Punjab",
+"Production" : "6.59"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Rajasthan",
+"Production" : "12.17"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Tamil Nadu",
+"Production" : "2.89"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Uttar Pradesh",
+"Production" : "19.96"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Uttaranchal",
+"Production" : "0.93"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area West Bengal",
+"Production" : "6.09"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Area Others",
+"Production" : "3.33"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Andhra Pradesh",
+"Production" : "17.93"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Assam",
+"Production" : "4.76"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Bihar",
+"Production" : "15.62"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Chhattisgarh",
+"Production" : "7.63"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Gujarat",
+"Production" : "7.32"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Haryana",
+"Production" : "16.22"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Jharkhand",
+"Production" : "4.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Karnataka",
+"Production" : "10.93"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Madhya Pradesh",
+"Production" : "23.42"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Maharashtra",
+"Production" : "10.69"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Orissa",
+"Production" : "8.35"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Punjab",
+"Production" : "28.07"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Rajasthan",
+"Production" : "18.03"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Tamil Nadu",
+"Production" : "6.29"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Uttar Pradesh",
+"Production" : "50.84"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Uttaranchal",
+"Production" : "1.8"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume West Bengal",
+"Production" : "16.51"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Volume Others",
+"Production" : "6.64"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Andhra Pradesh",
+"Production" : "2616"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Assam",
+"Production" : "1889"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Bihar",
+"Production" : "2329"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Chhattisgarh",
+"Production" : "1514"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Gujarat",
+"Production" : "1990"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Haryana",
+"Production" : "3698"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Jharkhand",
+"Production" : "1861"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Karnataka",
+"Production" : "1472"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Madhya Pradesh",
+"Production" : "1657"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Maharashtra",
+"Production" : "1057"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Orissa",
+"Production" : "1658"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Punjab",
+"Production" : "4258"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Rajasthan",
+"Production" : "1482"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Tamil Nadu",
+"Production" : "2175"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Uttar Pradesh",
+"Production" : "2547"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield Uttaranchal",
+"Production" : "1939"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Yield West Bengal",
+"Production" : "2711"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area",
+"Production" : "42.8"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume",
+"Production" : "104.4"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield",
+"Production" : "2462"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Andhra Pradesh",
+"Production" : "3.49"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Assam",
+"Production" : "2.24"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Bihar",
+"Production" : "3.25"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Chhattisgarh",
+"Production" : "3.78"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Gujarat",
+"Production" : "0.7"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Haryana",
+"Production" : "1.22"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Jharkland",
+"Production" : "1.35"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Karnataka",
+"Production" : "1.27"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Kerala",
+"Production" : "0.2"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Madhya Pradesh",
+"Production" : "1.88"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Maharashtra",
+"Production" : "1.55"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Orissa",
+"Production" : "4.03"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Punjab",
+"Production" : "2.85"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Tamil Nadu",
+"Production" : "1.58"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Uttar Pradesh",
+"Production" : "5.86"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area West Bengal",
+"Production" : "5.43"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Area Others",
+"Production" : "1.73"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Andhra Pradesh",
+"Production" : "10910"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Arunachal Pradesh",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Assam",
+"Production" : "4560"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Bihar",
+"Production" : "7340"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Chhattisgarh",
+"Production" : "6610"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Goa",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Gujarat",
+"Production" : "1500"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Haryana",
+"Production" : "3980"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Himachal Pradesh",
+"Production" : "134.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Jammu and Kashmir",
+"Production" : "545.6"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Jharkhand",
+"Production" : "3030"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Karnataka",
+"Production" : "3280"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Kerala",
+"Production" : "530"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Madhya Pradesh",
+"Production" : "2780"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Maharashtra",
+"Production" : "3040"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Manipur",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Meghalaya",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Mizoram",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Nagaland",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Orissa",
+"Production" : "7640"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Punjab",
+"Production" : "11370"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Rajasthan",
+"Production" : "222.5"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Sikkim",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Tamil Nadu",
+"Production" : "4400"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Tripura",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Union Territories",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Uttar Pradesh",
+"Production" : "14410"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume Uttaranchal",
+"Production" : "581"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Volume West Bengal",
+"Production" : "14960"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Andhra Pradesh",
+"Production" : "3126"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Assam",
+"Production" : "2036"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Bihar",
+"Production" : "2258"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Chhattisgarh",
+"Production" : "1749"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Gujarat",
+"Production" : "2143"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Haryana",
+"Production" : "3262"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Jharkland",
+"Production" : "2244"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Karnataka",
+"Production" : "2583"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Kerala",
+"Production" : "2650"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Madhya Pradesh",
+"Production" : "1479"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Maharashtra",
+"Production" : "1961"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Orissa",
+"Production" : "1896"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Punjab",
+"Production" : "3989"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Tamil Nadu",
+"Production" : "2785"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield Uttar Pradesh",
+"Production" : "2459"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Rice Yield West Bengal",
+"Production" : "2755"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area",
+"Production" : "30"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume",
+"Production" : "92.46"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield",
+"Production" : "3117"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Assam",
+"Production" : "0.05"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Bihar",
+"Production" : "2.22"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Gujarat",
+"Production" : "1.05"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Haryana",
+"Production" : "2.5"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Himachal Pradesh",
+"Production" : "0.36"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Jammu and Kashmir",
+"Production" : "0.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Jharkhand",
+"Production" : "0.16"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Karnataka",
+"Production" : "0.23"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Madhya Pradesh",
+"Production" : "5.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Maharashtra",
+"Production" : "0.59"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Punjab",
+"Production" : "3.52"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Rajasthan",
+"Production" : "2.82"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Uttar Pradesh",
+"Production" : "9.73"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Uttaranchal",
+"Production" : "0.36"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area West Bengal",
+"Production" : "0.32"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Area Others",
+"Production" : "0.14"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Arunachal Pradesh",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Assam",
+"Production" : "60"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Bihar",
+"Production" : "5380"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Chhattisgarh",
+"Production" : "141.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Goa",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Gujarat",
+"Production" : "3140"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Haryana",
+"Production" : "11120"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Himachal Pradesh",
+"Production" : "540"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Jammu and Kashmir",
+"Production" : "420"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Jharkhand",
+"Production" : "270"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Karnataka",
+"Production" : "170"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Kerala",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Madhya Pradesh",
+"Production" : "13130"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Maharashtra",
+"Production" : "880"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Manipur",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Meghalaya",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Mizoram",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Nagaland",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Orissa",
+"Production" : "2.1"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Punjab",
+"Production" : "16110"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Rajasthan",
+"Production" : "8950"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Sikkim",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Tamil Nadu",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Tripura",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Union Territories",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Uttar Pradesh",
+"Production" : "30300"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume Uttaranchal",
+"Production" : "840"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Volume West Bengal",
+"Production" : "910"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Assam",
+"Production" : "1188"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Bihar",
+"Production" : "2427"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Gujarat",
+"Production" : "2986"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Haryana",
+"Production" : "4452"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Himachal Pradesh",
+"Production" : "1514"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Jammu and Kashmir",
+"Production" : "1404"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Jharkhand",
+"Production" : "1716"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Karnataka",
+"Production" : "735"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Madhya Pradesh",
+"Production" : "2478"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Maharashtra",
+"Production" : "1473"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Punjab",
+"Production" : "4573"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Rajasthan",
+"Production" : "3175"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Uttar Pradesh",
+"Production" : "3113"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield Uttaranchal",
+"Production" : "2341"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Wheat Yield West Bengal",
+"Production" : "2817"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area",
+"Production" : "24.8"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume",
+"Production" : "40.08"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield",
+"Production" : "1626"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Andhra Pradesh",
+"Production" : "1.41"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Bihar",
+"Production" : "0.72"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Chhattisgarh",
+"Production" : "0.26"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Gujarat",
+"Production" : "1.25"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Haryana",
+"Production" : "0.52"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Himachal Pradesh",
+"Production" : "0.31"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Jammu and Kashmir",
+"Production" : "0.35"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Jharkhand",
+"Production" : "0.25"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Karnataka",
+"Production" : "3.59"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Madhya Pradesh",
+"Production" : "1.64"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Maharashtra",
+"Production" : "4.69"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Orissa",
+"Production" : "0.18"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Punjab",
+"Production" : "0.15"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Rajasthan",
+"Production" : "5.98"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Tamil Nadu",
+"Production" : "0.7"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Uttar Pradesh",
+"Production" : "2"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Uttaranchal",
+"Production" : "0.25"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area West Bengal",
+"Production" : "0.12"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Area Others",
+"Production" : "0.27"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Andhra Pradesh",
+"Production" : "5440"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Arunachal Pradesh",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Assam",
+"Production" : "17"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Bihar",
+"Production" : "2370"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Chhattisgarh",
+"Production" : "240"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Goa",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Gujarat",
+"Production" : "2070"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Haryana",
+"Production" : "1000"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Himachal Pradesh",
+"Production" : "670"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Jammu and Kashmir",
+"Production" : "540"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Jharkhand",
+"Production" : "410"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Karnataka",
+"Production" : "6150"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Kerala",
+"Production" : "0.3"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Madhya Pradesh",
+"Production" : "2530"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Maharashtra",
+"Production" : "4360"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Manipur",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Meghalaya",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Mizoram",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Nagaland",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Orissa",
+"Production" : "290"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Punjab",
+"Production" : "530"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Rajasthan",
+"Production" : "6910"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Sikkim",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Tamil Nadu",
+"Production" : "1650"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Tripura",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Union Territories",
+"Production" : "NA"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Uttar Pradesh",
+"Production" : "3690"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume Uttaranchal",
+"Production" : "340"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Volume West Bengal",
+"Production" : "630"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Andhra Pradesh",
+"Production" : "3858"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Bihar",
+"Production" : "3292"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Chhattisgarh",
+"Production" : "923"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Gujarat",
+"Production" : "1656"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Haryana",
+"Production" : "1923"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Himachal Pradesh",
+"Production" : "2161"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Jammu and Kashmir",
+"Production" : "1543"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Jharkhand",
+"Production" : "1640"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Karnataka",
+"Production" : "1713"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Madhya Pradesh",
+"Production" : "1543"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Maharashtra",
+"Production" : "930"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Orissa",
+"Production" : "1611"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Punjab",
+"Production" : "3533"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Rajasthan",
+"Production" : "1156"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Tamil Nadu",
+"Production" : "2357"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Uttar Pradesh",
+"Production" : "1845"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield Uttaranchal",
+"Production" : "1360"
+},
+
+{
+"Oilseed crop type" : "Agricultural Production Foodgrains Coarse Cereals Yield West Bengal",
+"Production" : "5250"
+},
